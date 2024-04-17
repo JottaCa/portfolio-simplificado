@@ -7,7 +7,7 @@ body {
     font-family: "Poppins", sans-serif;
     margin: 0 auto;
     max-width: 1120px;
-    background: linear-gradient(150deg, #000000, #9e00ff);
+    background: linear-gradient(150deg, #000, #6d7896);
     background-size: 120% 120%;
 }
 
@@ -59,7 +59,7 @@ body {
 .home .informacoes {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
     letter-spacing: 2px;
     padding: 0 15px;
     max-width: 50%;
@@ -67,13 +67,13 @@ body {
 
 .home .informacoes h1 {
     font-family: "Raleway", sans-serif;
-    font-size: 45px;
+    font-size: 35px;
     margin-bottom: 20px;
 }
 
 .home .informacoes p {
     font-family: "Raleway", sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 20px;
 }
 
@@ -110,9 +110,9 @@ body {
 }
 
 .home .foto.sombra-interna {
-    background: linear-gradient(to right, #8A35C8, #18c063, #00eea2);
+    background: linear-gradient(to right, #4a577b,#202d52, #0e1a39);
     background-size: 180% 180%;
-    animation: gradient-animation 5s ease infinite;
+    animation: gradient-animation 10s ease infinite;
 }
 
 .projetos {
