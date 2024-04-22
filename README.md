@@ -1,7 +1,7 @@
 # Portfólio simplificado
 Um projeto de portfólio simplificado para estudo, e futura entrada no mercado de Front-and. 🚀
 
-[<img src="./portfolio-simplificado.gif" alt="Gif da página do portfólio simplificado">](https://jottaca.github.io/portfolio-simplificado/)
+[<img src="./src/portfolio-simplificado.gif" alt="Gif da página do portfólio simplificado">](https://jottaca.github.io/portfolio-simplificado/)
 
 ## Tecnologias utilizadas
 - HTML
